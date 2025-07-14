@@ -22,4 +22,6 @@ This project reflects my ongoing effort to strengthen problem-solving skills and
 ## 🗂️ Folder Structure
 - Basic 
     - Math
+    - Recursion
+    - Hashing
 

@@ -26,5 +26,6 @@ This project reflects my ongoing effort to strengthen problem-solving skills and
     - Hashing
   
 - Sorting
-    - Selection sort
+   
+- Standard Template Library (STL)
 

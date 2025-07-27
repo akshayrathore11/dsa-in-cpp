@@ -29,3 +29,5 @@ This project reflects my ongoing effort to strengthen problem-solving skills and
    
 - Standard Template Library (STL)
 
+- Array
+

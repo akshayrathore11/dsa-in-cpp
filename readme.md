@@ -28,6 +28,12 @@ This project reflects my ongoing effort to strengthen problem-solving skills and
 - Sorting
    
 - Standard Template Library (STL)
+    - Algorithms
+    - Container
+    - Functors
+    - Iterators
 
 - Array
+
+- Binary Search
 
